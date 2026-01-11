@@ -5,13 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mohamadelidris1" target="blank"><img src="https://img.shields.io/twitter/follow/mohamadelidris1?logo=twitter&style=for-the-badge" alt="mohamadelidris1" /></a> </p>
 
-- 🔭 I’m currently working on [medoeb](https://medoeb.com/)
 
-- 🌱 I’m currently learning **C/C++ , ICT**
-
-- 💬 Ask me about **CMS, Ecom**
-
-- 📫 How to reach me **7mohamed.elidrysy.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
